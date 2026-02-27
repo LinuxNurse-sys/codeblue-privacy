@@ -1,0 +1,2 @@
+# codeblue-privacy
+Privacy Policy
